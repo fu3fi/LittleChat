@@ -1,0 +1,6 @@
+fastapi
+redis
+cryptography
+requests
+uvicorn
+redisgraph
